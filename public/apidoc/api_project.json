@@ -1,0 +1,1 @@
+{  "name": "Icenter API",  "version": "0.1.0",  "description": "Icenter API 文档",  "title": "Icenter API 文档规范",  "url": "http://jd.wemesh.cn/api/v1",  "sampleUrl": false,  "defaultVersion": "0.0.0",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2017-09-10T06:32:48.003Z",    "url": "http://apidocjs.com",    "version": "0.17.6"  }}
